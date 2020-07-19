@@ -18,9 +18,7 @@ Ultimately, the purpose of this mini-project is to not only gain practice with t
 ## Resources & Dataset Used:
 
 * **Python Version:** 3.7
-
 * **Python Libraries Used:** pandas, numpy, imbalance-learn (imblearn), Scikit-Learn (sklearn), NLTK, seaborn, matplotlib
-
 * **Dataset:** UCI SMS spam collection dataset https://www.kaggle.com/uciml/sms-spam-collection-dataset/
 
 
