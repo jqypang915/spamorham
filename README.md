@@ -17,9 +17,11 @@ Ultimately, the purpose of this mini-project is to not only gain practice with t
 
 ## Resources & Dataset Used:
 
-**Python Version:** 3.7
-**Python Libraries Used:** pandas, numpy, imbalance-learn (imblearn), Scikit-Learn (sklearn), NLTK, seaborn, matplotlib
-**Dataset:** UCI SMS spam collection dataset https://www.kaggle.com/uciml/sms-spam-collection-dataset/
+* **Python Version:** 3.7
+
+* **Python Libraries Used:** pandas, numpy, imbalance-learn (imblearn), Scikit-Learn (sklearn), NLTK, seaborn, matplotlib
+
+* **Dataset:** UCI SMS spam collection dataset https://www.kaggle.com/uciml/sms-spam-collection-dataset/
 
 
 ## Data Cleaning
@@ -46,9 +48,9 @@ Ultimately, the purpose of this mini-project is to not only gain practice with t
 * Used SMOTE (Synthetic Minority Oversampling Technique) to create a alternative training set for model creation
 
 I tried three different models:
-* Logistic Regression - used as base line
+* Logistic Regression - used as baseline
 * Random Forest - Known to reduce overfitting and interested in seeing how balancing a dataset would impact model accuracy
-* Naive Bayes - Assuming features are independent from each, I thought this was a good fit. Also, recommended for document classification
+* Naive Bayes - Assumes features are independent from each other, I thought this was a good fit. Also, model is recommended for document classification
 
 ## Model Performance
 
