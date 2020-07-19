@@ -1,2 +1,8 @@
 **/.DS_Store
-datasets/
+test_labels.csv
+train_labels.csv
+cleaned_training.csv
+balanced_labels.csv
+balanced_training.csv
+cleaned_testing.csv
+spam.csv
