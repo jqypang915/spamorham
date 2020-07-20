@@ -15,7 +15,7 @@ In UC Berkeley's Principles and Techniques of Data Science (Data 100) class, stu
 Ultimately, the purpose of this mini-project is to not only gain practice with the skills learned from class, but to also learn new skills that can build upon my knowledge.
 
 
-## Resources & Dataset Used:
+## Resources & Dataset Used
 
 * **Python Version:** 3.7
 * **Python Libraries Used:** pandas, numpy, imbalance-learn (imblearn), Scikit-Learn (sklearn), NLTK, seaborn, matplotlib
