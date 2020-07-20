@@ -3,7 +3,7 @@
 Classifying messages as Spam or Ham (non-spam) with Scikit-learn and with SMOTE imbalance correction.
 
 
-## Goal:
+## Goal
 
 With data of spam sms messages, use NLTK to create a model to predict whether or sms messages is spam or ham (not spam). Furthermore, evaluate the impacts of an imbalanced sample set and how imbalance correction on training data can affect the accuracy of models.
 
