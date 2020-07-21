@@ -56,12 +56,12 @@ Random Forest Model did the best regardless of which dataset the model was train
 
 **Trained with Imbalanced Dataset:**
 * Logistic Regression: 0.961936 
-* Random Forest: 0.975530  
+* Random Forest: 0.974443 
 * Naive Bayes: 0.868951
 
 **Trained with Balanced Dataset (SMOTE):**
 * Logistic Regression: 0.968461
-* Random Forest: 0.978249
+* Random Forest: 0.978793
 * Naive Bayes: 0.933660
 
 
