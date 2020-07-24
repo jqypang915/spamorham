@@ -5,12 +5,12 @@ Classifying messages as Spam or Ham (non-spam) with Scikit-learn and with SMOTE 
 
 ## Goal
 
-With data of spam sms messages, use NLTK to create a model to predict whether or sms messages is spam or ham (not spam). Furthermore, evaluate the impacts of an imbalanced sample set and how imbalance correction on training data can affect the accuracy of models.
+With data of spam sms messages, use NLTK to create a model to predict whether or sms messages is spam or ham (not spam). Furthermore, evaluate the impacts of an imbalanced sample set and how imbalance correction on training data, such as SMOTE, can affect the accuracy of models.
 
 
 ## Context
 
-In UC Berkeley's Principles and Techniques of Data Science (Data 100) class, students were tasked to use what we have learned to distinguish spam or ham (aka non-spam) emails. This project is a continuation of that assignment as I wanted to see if I improve my model to obtain a higher accuracy. Furthermore, primarily I wanted use this project to gain more practice with the entire data science lifecycle and documenting my findings and approaches. In this project, I will be using a new dataset as specified below and do data cleaning and eda, practice implementing NLTK/CountVectorizer/TFIDF to create a better model, and test the impacts of imbalance correction with SMOTE. 
+In UC Berkeley's Principles and Techniques of Data Science (Data 100) class, students were tasked to use what we have learned to distinguish spam or ham (aka non-spam) emails. This project is a continuation of that assignment as I wanted to see if I improve my model to obtain a higher accuracy. In this project, I will be using a new dataset as specified below and do data cleaning and eda, practice NLP by implementing NLTK/CountVectorizer/TFIDF to create a better model, and test the impacts of imbalance correction with SMOTE. 
 
 Ultimately, the purpose of this mini-project is to not only gain practice with the skills learned from class, but to also learn new skills that can build upon my knowledge.
 
