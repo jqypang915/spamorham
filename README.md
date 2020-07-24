@@ -39,6 +39,7 @@ Ultimately, the purpose of this mini-project is to not only gain practice with t
 ## Model Building
 
 * Split the data into train and tests sets with a test size of 33%.
+* Tokenized sms messages to be used for model training
 * Transformed training data with count vectorizer and Term frequency-inverse document frequency (TFIDF)
 
 ### Imbalance Correction
