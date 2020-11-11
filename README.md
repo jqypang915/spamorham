@@ -1,4 +1,4 @@
-# Mini Project: Spam-or-Ham SMS Classifer
+# Mini Project: Spam-or-Ham SMS Classifier
 
 Classifying messages as Spam or Ham (non-spam) with Scikit-learn and with SMOTE imbalance correction.
 
